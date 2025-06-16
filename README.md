@@ -16,7 +16,11 @@ pip install -r requirements.txt
 
 ### 📦 Dataset Processing
 
-#### Preprocess Dataset
+#### Step 1: Download Required Dataset
+
+- [https://huggingface.co/datasets/ShenLab/MentalChat16K
+
+#### Step 2 : Preprocess Dataset
 
 ```bash
 python process_dataset.py \
