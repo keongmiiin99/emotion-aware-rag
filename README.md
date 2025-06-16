@@ -1,6 +1,6 @@
-# EmotionRAG Pipeline
+# Emotion-aware RAG Pipeline
 
-This repository outlines the full pipeline for EmotionRAG, from data preprocessing to evaluation.
+This repository outlines the full pipeline for Emotion-aware RAG, from data preprocessing to evaluation.
 > ⚠️ **Important:** All file and folder paths in the commands below are examples.  
 > Please replace them with your own file and directory paths.
 
