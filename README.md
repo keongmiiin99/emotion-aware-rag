@@ -18,13 +18,13 @@ pip install -r requirements.txt
 
 #### Step 1: Download Required Dataset
 
-- [MentalChat16K] (https://huggingface.co/datasets/ShenLab/MentalChat16K)
+- [MentalChat16K](https://huggingface.co/datasets/ShenLab/MentalChat16K)
 
 
 #### Step 2 : Preprocess Dataset
 
 ```bash
-cd datas
+cd data
 python process_dataset.py \
   --dataset_path /home/~/mentalchat16k \
   --output_dir dataset/
