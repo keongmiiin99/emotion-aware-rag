@@ -1,6 +1,8 @@
 # EmotionRAG Pipeline
 
 This repository outlines the full pipeline for EmotionRAG, from data preprocessing to evaluation.
+> ⚠️ **Important:** All file and folder paths in the commands below are examples.  
+> Please replace them with your own file and directory paths.
 
 ---
 ### 🛠️ Setup: Create Virtual Environment & Install Dependencies
@@ -14,11 +16,7 @@ pip install -r requirements.txt
 
 ### 📦 Dataset Processing
 
-#### 1. (Optional) Download the MIT License
-
-[MIT License](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md)
-
-#### 2. Preprocess Dataset
+#### Preprocess Dataset
 
 ```bash
 python process_dataset.py \
