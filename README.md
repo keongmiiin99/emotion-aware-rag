@@ -4,9 +4,11 @@
 
 Please download the dataset from here :  https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md
 
+```
 python process_dataset.py \
 --dataset_path /home/tako/km/EmotionRAG/dataset/mentalchat16k \
 --output_dir dataset/
+```
 
 ### Build embeddings
 
