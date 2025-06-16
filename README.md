@@ -147,8 +147,8 @@ python generator_vllm.py \
 cd evaluation
 
 python evaluator.py \
-  --gen /home/tako/~/generation/output/our_generation_combined.jsonl \
-  --ref /home/tako/~/dataset/eval_dataset_with_id.jsonl \
+  --gen /home/~/generation/output/our_generation_combined.jsonl \
+  --ref /home/~/dataset/eval_dataset_with_id.jsonl \
   --out result/evaluation_results.jsonl
 ```
 
@@ -157,7 +157,7 @@ python evaluator.py \
 ### 📁 Directory Structure Example
 
 ```
-EmotionRAG/
+Emotion-aware-RAG/
 ├── dataset/
 ├── embedding/
 │   ├── emotion/
