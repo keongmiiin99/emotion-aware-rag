@@ -165,7 +165,5 @@ Emotion-aware-RAG/
 ├── index/
 ├── retrieval/
 ├── generation/
-├── evaluation/
-├── model_download/
-└── output/
+└── evaluation/
 ```
